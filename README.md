@@ -1,16 +1,14 @@
-## Hi there 👋
+## 안녕하세요, 백엔드 개발자 황윤하입니다
 
-<!--
-**yunsssiiii/yunsssiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java · Spring Boot 기반 3년차 백엔드 개발자입니다.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Language** : Java 8 +
+- **Framework** : Spring Boot 2 +
+- **Database** : MySQ
+- **Messaging** : RabbitMQ
+- **Infra** : Linux 서버 직접 운영 (SSH 접속 · 로그 확인 · 배포), XenServer 가상 서버 관리
+- **Tools** : Docker (로컬 테스트 환경 구성)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email : hchdbsgk@naver.com
