@@ -8,7 +8,6 @@ Java · Spring Boot 기반 3년차 백엔드 개발자입니다.
 - **Database** : MySQ
 - **Messaging** : RabbitMQ
 - **Infra** : Linux 서버 직접 운영 (SSH 접속 · 로그 확인 · 배포), XenServer 가상 서버 관리
-- **Tools** : Docker (로컬 테스트 환경 구성)
 
 ### Contact
 - Email : hchdbsgk@naver.com
